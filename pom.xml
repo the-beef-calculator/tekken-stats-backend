@@ -12,7 +12,7 @@
 		<relativePath/>
 	</parent>
 
-	<groupId>com.example</groupId>
+	<groupId>com.tekkenstats</groupId>
 	<artifactId>Tekken-Springboot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Tekken Statistics Project</name>
